@@ -80,7 +80,7 @@ A full-stack web application to manage employee attendance, top-up requests, and
 5. **Access actuator endpoint**
     ```bash
     http://localhost:8080/actuator/health
-🌐 Frontend Setup (React + Vite)
+## 🌐 Frontend Setup (React + Vite)
 1. *Navigate to frontend directory*
 
 2. *Install Node modules*
